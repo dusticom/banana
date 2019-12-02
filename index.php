@@ -2,8 +2,8 @@
 
 <?php
 
-echo "hello"
-<br>
-echo "tinnawat"
+echo "hello";
+
+echo "tinnawat";
 
 ?>
